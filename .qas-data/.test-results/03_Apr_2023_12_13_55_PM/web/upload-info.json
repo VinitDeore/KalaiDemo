@@ -1,0 +1,118 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Drag2",
+    "line": 9,
+    "description": "",
+    "id": "Drag2",
+    "tags": [],
+    "uri": "DragTestt/Drag2",
+    "testSuiteName": "DragTestt",
+    "type": "web",
+    "appName": "chrome",
+    "capability": {
+      "remoteUrl": "https://www.amazon.in/",
+      "type": "web",
+      "selectBrowser": "chrome",
+      "selectDevice": "",
+      "isRemote": false,
+      "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+      "isDebugMode": false,
+      "details": {
+        "deviceMetrics": {
+          "name": "",
+          "width": "",
+          "height": "",
+          "pixelRatio": "",
+          "userAgent": ""
+        }
+      }
+    },
+    "desiredCapabilities": {},
+    "elements": [
+      {
+        "id": "Drag2",
+        "keyword": "Scenario",
+        "description": "",
+        "line": 9,
+        "name": "Drag2",
+        "type": "scenario",
+        "testData": "",
+        "executionStatus": "Failed",
+        "tagName": [],
+        "capability": {
+          "remoteUrl": "https://www.amazon.in/",
+          "type": "web",
+          "selectBrowser": "chrome",
+          "selectDevice": "",
+          "isRemote": false,
+          "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+          "isDebugMode": false,
+          "details": {
+            "deviceMetrics": {
+              "name": "",
+              "width": "",
+              "height": "",
+              "pixelRatio": "",
+              "userAgent": ""
+            }
+          }
+        },
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 1,
+            "name": "get https://www.amazon.in/",
+            "match": {
+              "location": "Drag2/01"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 12043000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 2,
+            "name": "click on xpath=//html",
+            "match": {
+              "location": "Drag2/11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2635000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 3,
+            "name": "click on xpath=//img[@alt='Best offers on Ladders and Ironing boards']",
+            "match": {
+              "location": "Drag2/21"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 30593000000,
+              "error_message": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@alt='Best offers on Ladders and Ironing boards']\"}\n  (Session info: chrome=111.0.5563.147)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@alt='Best offers on Ladders and Ironing boards']\"}\n  (Session info: chrome=111.0.5563.147)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:700:17)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 4,
+            "name": "click on xpath=//a[contains(text(),'Careers')]",
+            "match": {
+              "location": "Drag2/31"
+            },
+            "result": {
+              "status": "notrun"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

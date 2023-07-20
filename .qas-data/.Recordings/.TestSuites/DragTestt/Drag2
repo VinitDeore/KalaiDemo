@@ -1,0 +1,182 @@
+{
+    "steps": [
+        {
+            "command": "Open",
+            "element": "",
+            "eArray": [],
+            "input": "https://www.amazon.in/",
+            "status": "Passed",
+            "elementKey": "",
+            "elementDesc": "",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "10",
+            "tsId": 8,
+            "testData": false,
+            "duration": 12043000000,
+            "executedOn": "2023-04-03T06:42:49.948Z",
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "xpath=//html",
+            "eArray": [
+                [
+                    "xpath=//html",
+                    "xpath:position"
+                ],
+                [
+                    "css=html.a-ws.a-js.a-audio.a-video.a-canvas.a-svg.a-drag-drop.a-geolocation.a-history.a-webworker.a-autofocus.a-input-placeholder.a-textarea-placeholder.a-local-storage.a-gradients.a-transform3d.a-touch-scrolling.a-text-shadow.a-text-stroke.a-box-shadow.a-border-radius.a-border-image.a-opacity.a-transform.a-transition.null",
+                    "css"
+                ]
+            ],
+            "input": "",
+            "status": "Passed",
+            "elementKey": "html.skiptomaincontent.inhelloselectyouraddressallallcategoriesalexaskillsamazondevicesamazonfashionamazonfreshamazonpharmacyappliancesappsgamesbabybeautybookscarmotorbikeclothingaccessoriescollectiblescomputersaccessoriesdealselectronicsfurnituregardenoutdoorsgiftcardsgrocerygourmetfoodshealthpersonalcarehomekitchenindustrialscientificjewellerykindlestoreluggagebagsluxurybeautymoviestvshowsmusicmusicalinstrumentsofficeproductspetsuppliesprimevideoshoeshandbagssoftwaresportsfitnessoutdoorssubscribesavetoolshomeimprovementtoysgamesunder₹500videogameswatchesenhellosigninaccountlistsreturnsorders0cartallpreviousslidenextslideupto70off|clearancestoreseemorebluetoothcallingsmartwatchstartsat₹1999shopnowautomotiveessentials|upto60offcleaningaccessoriestyrerimcarehelmetsvacuumcleanerseemoresigninforyourbestexperiencesigninforyourbestexperiencesigninsecurelysponsoredupto60off|professionaltoolstestingmoreprofessionaltoolsmeasuringinstrumentscleaningsuppliesmedicalsuppliesseemorestarting₹87|amazonbrandsmorestarting₹149|choppersmorestarting₹87|stringlightsmorestarting₹239|kitchenstoragecontainersstarting₹189|wallstickersmoreshopnowrevampyourhomeinstylebedsheetscurtainsmorehomedecorationhomestoragelightingsolutionsexploreallupto60off|stylesformenclothingfootwearwatchesbagsluggageseeallofferstoday’sdealsseealldealsupto76offdealofthedaycrazydealonboatheadphonesandspeakerscrazydealonboatheadphonesand…14offdealoftheday₹18999.00₹18999.00m.r.p.₹21999.00₹21999.00oppoa78startingat17499includingotheroffersoppoa78startingat17499including…upto83offdealofthedaylevisallensollyannidesignermorelevisallensollyannidesigner…upto67offdealofthedayblockbusterdealsonjbltruewirelessearbudsblockbusterdealsonjbltruewireles…upto64offdealofthedaytitantimexmaximaandmoretitantimexmaximaandmoreupto72offdealofthedayexcitingoffer-trukepremiumearbudsexcitingoffer-trukepremiumearbuds53offdealoftheday₹34999.00₹34999.00m.r.p.₹74999.00₹74999.00bestoffersonsamsungs20fe5gbestoffersonsamsungs20fe5gupto76offdealofthedayjawdroppingoffersonzebronicsaudiojawdroppingoffersonzebronicsaudioupto72offdealofthedayjawdroppingdealsonspeakersoundbarsandotheraccessoriesjawdroppingdealsonspeakersoun…upto64offdealofthedaybestsellinggamespuzzlesbestsellinggamespuzzlesupto69offdealofthedaybestsellingnoiseheadphonesbestsellingnoiseheadphones12offdealoftheday₹6599.00₹6599.00m.r.p.₹7499.00₹7499.00nokiac12264starting6499-nokiac12264starting6499-upto69offdealofthedaytopoffersoncomputeraccessoriestopoffersoncomputeraccessoriesupto87offdealofthedaywallpapersandwallartwallpapersandwallartupto41offdealofthedaybestoffersfromv-guardproductsbestoffersfromv-guardproductsupto63offdealofthedaybestsellinglearningeducationtoysbestsellinglearningeducationtoysupto55offdealofthedaybestoffersonladdersandironingboardsbestoffersonladdersandironingboa…upto42offdealofthedaybestoffersonamericanmicronicbestoffersonamericanmicronicupto50off|kitchenappliancescookwaremoreseealloffershealthbeautybestsellersseeallofferssellonamazonwith1-clicklaunchsupportregisternowelectronicsdevicesforhomeofficesmartwatchesfitnesstrackerstabletslaptopsmonitorsseemorestarting₹99|startyourfitnessjourneyseemoreupto60off|toolshomeimprovementspinmopswipesmoredrillmachinestoolkitsmorebathroomaccessoriesextensionboardsplugsmoreseemorebestsellersincomputersaccessoriesamazonlive|watchchatshopliveseemorefromamazonlivelive572trendyvacationoutfitsandaccessoriesstartingfrom₹499watchnowsparshalawadhiisapartoftheamazoninfluencerprogrampetricetoiletrybagforwomenmakeuppouchwaterproofshowerwashbagcosmeticorganizercasetravelkitpackwithhookgreen₹499.00₹999.00pramaddapureluxurytouristerveganleather9inchslingbagformenwomen|chestcrossbodysidebeg|mobilepassportdocumentslingtravelpouchwaterproof|corporategiftitem.₹499.00₹1499.00featurednowklondonstylishrealleatherblackwaistbagelegantstyletravelpouchpassportholderwithadjustablestrap246_black₹329.00₹1800.00shopyvid®puleatherstylishandtrendingwomenbackpackforcollegeofficetravelbaggirlshandbagpurseblack₹369.00₹1126.00passpassmenwomenretrodrivingrectangularsunglassespackof2₹210.00₹999.00richclub-polarizedsportsunglassesformenwomenuv400-cyclingrunningcricketsportssunglassesshades₹499.00₹999.00onlinemantraunisexadultsquaresunglasseswhiteframeandblacklens₹115.00₹299.00onlinemantraunisexadultsquaresunglassesblackframeandblacklens₹115.00₹299.00aliconsportsshoesformen|laceuplightweightshoesforrunningwalkinggymtrekkinghikingpartyrunningshoesformens₹499.00₹1499.00casualsneakersformenlaceuplightweightshoesforrunningwalkinggymtrekkinghikingpartyrunningshoesformenblack₹349.00₹699.00electronicspicesdiypowerbankkitnormalbatterychargeroutercaseplasticshellboxwith3usbpowerbankmodulepoweronoffswitchchargingmobilepowercasekitbatterynotincludedmulticolor₹169.00₹249.00minimalistcreamsunscreenspf50lightweightwithmulti-vitaminsnowhitecastbroadspectrumpaacnesafeforunisex50g₹379.00₹399.00urbangabruclayhairwaxzerotoinfinity-stronghold|volume|hairstylehairwax100gm₹349.00₹400.00merleherbsactivatedcharcoalfacewashforacne|oilcontrolremovestanning|formenandwomen200ml₹649.00₹750.00lyriqcasualshirtformen||shirtformen||menstylishshirt||menprintedshirt₹398.00₹1999.00levismens025roundneckcottont-shirtwithsmartskintechnology₹384.00₹549.00hangouthubvacationmodeon-setof1-mencottonregularfittshirts-familymatchingtwinningtshirts₹379.00₹999.00hangouthubmenswomensboysgirlsroundneckt-shirtvacationmodeonprinted-bluecolor-familycombotees₹399.00₹999.00smartwatchformenwomenboys1.3oledhddisplaymultiplewatchfacesspo2monitoringsleepmonitorforboysgirlsmenswomenkidsforallsmartphonesid116plusblackid116black₹432.00₹1899.00izu.digitaldialwaterproofstylishandcartoonprintedanalogstylishandfashionablewristsmartwatchledbandforkidcartooncharactersuperheroforboysgirlskidsm4-square₹249.00₹799.00aylwaterproofd-20touchscreensmartwatchbluetoothsmartwatchwithbloodpressuretrackingheartratesensorandbasicfunctionalityforallwomenandgirlspink₹470.00₹1499.00cosmusmensslingbagredblack₹487.00₹899.00pramaddapureluxuryglossleathersmallslingbagformen|chestslingerbag|crossbodybag|sidebagmen|minileatherslings|corporategiftitem|passportdocumentsling.₹419.00₹1499.00biotiquefruitbrighteningdepigmentationtanremovalfacepackforallskintypes75gm₹168.00₹199.00ustraade-tancream50g-dermatologicallytested-fortanremovalevenskintonewithjapaneseyuzuliquoricpreventsdarkspotswithoutbleachnosulphatesnoparabens₹199.00₹250.00flitemensflipflop₹349.00₹399.00flitemensfl0245gsliders₹299.00greciilookscasualshirtformen|mensshirt|printedshirtsformen|casualshirtsformen|floralshirtsformen|beachwearmen|printedstitchedhalfsleeveshirt₹379.00₹2499.00greciilookscasualshirtformen|shirtsformen|mensshirt|printedshirtsformen|casualshirtsformen|floralshirtsformen|beachwearmen₹379.00₹2499.00lymiocasualshirtformen||shirtformen||menstylishshirt||menprintedshirtshedfloral₹349.00₹4999.00americancrewmensregularshorts₹285.00₹2499.00sagesticsindustrialsolutiondenimshortsformenboysblackandwhitecasualsportandpartyuse₹499.00₹1999.00highstarmenblackwashedregularfitdenimshorts₹594.00₹999.00amazonbrand-symbolmensregularfitt-shirt₹299.00₹699.00elegantandstylishrippedskinnyanklelengthblackjeansformentaperedbottomwithdamagedistressedknee₹497.00₹1499.00lapataclassyfauxleatherjacketforboys₹499.00₹999.00kingswaggerchelseabootsforkidsboys₹420.00₹899.00furjadentravelneckpillowrestcushionwitheyemaskandearplugsfortravelinflightcartrainairplanewith10yearswarrantyforsleepingformenandwomenblack₹319.00₹1000.00amazonbasics64cmblacksoftsidedcheck-introlley₹2399.00₹7000.00pumaunisex-adultcapwhite₹479.00₹499.00watchmorelivestreamsseemoresponsoredstarting₹149|toolshomeimprovementspinmopswipesmoredrillmachinestoolkitsmorebathroomaccessoriesextensionboardsplugsmoreseemoreeverydaygroceryproducts|amazonlaunchpadexploremoreindianbrandsroomiesseason4outnowonminitvwatchforfree|minitvbirthdaystoregiftformengiftforwomengiftforboysgiftforgirlsseemorebestsellersinbeautybestsellersinclothingaccessoriesbestsellersinwomensindianclothingbestsellersinwomensindianclothinggosrikiwomenkurtawithpantsdupattagosrikiwomenkurtawithpantsdupatta₹659.00₹659.00m.r.p₹2599.00₹2599.00babydiaperswipesatgreatpricesexploreallbabyessentialsonestopshopforallyourweddingshoppingshopforhershopforhimpoojaessentialsexplorethestoreseemoreessentialsforexpectingmotherspregnancysupplementsmaternitysleeploungewearmaternitypillowsmaternityskincareseemorefrequentlyrepurchasedingrocerybacktotopgettoknowusaboutuscareerspressreleasesamazonscienceconnectwithusfacebooktwitterinstagrammakemoneywithussellonamazonsellunderamazonacceleratorprotectandbuildyourbrandamazonglobalsellingbecomeanaffiliatefulfilmentbyamazonadvertiseyourproductsamazonpayonmerchantsletushelpyoucovid-19andamazonyouraccountreturnscentre100purchaseprotectionamazonappdownloadhelpenglishaustraliabrazilcanadachinafrancegermanyitalyjapanmexiconetherlandspolandsingaporespainturkeyunitedarabemiratesunitedkingdomunitedstatesabebooksbooksartcollectiblesamazonwebservicesscalablecloudcomputingservicesaudibledownloadaudiobooksdpreviewdigitalphotographyimdbmoviestvcelebritiesshopbopdesignerfashionbrandsamazonbusinesseverythingforyourbusinessprimenow2-hourdeliveryoneverydayitemsamazonprimemusic90millionsongsad-freeover15millionpodcastepisodesconditionsofusesaleprivacynoticeinterest-basedads©1996-2023amazon.cominc.oritsaffiliates",
+            "elementDesc": "HTML skiptomaincontent.inhelloselectyouraddressallallcategoriesalexaskillsamazondevicesamazonfashionamazonfreshamazonpharmacyappliancesapps&gamesbabybeautybookscar&motorbikeclothing&accessoriescollectiblescomputers&accessoriesdealselectronicsfurnituregarden&outdoorsgiftcardsgrocery&gourmetfoodshealth&personalcarehome&kitchenindustrial&scientificjewellerykindlestoreluggage&bagsluxurybeautymovies&tvshowsmusicmusicalinstrumentsofficeproductspetsuppliesprimevideoshoes&handbagssoftwaresports,fitness&outdoorssubscribe&savetools&homeimprovementtoys&gamesunder₹500videogameswatchesenhello,signinaccount&listsreturns&orders0cartallpreviousslidenextslideupto70%off|clearancestoreseemorebluetoothcallingsmartwatchstartsat₹1,999shopnowautomotiveessentials|upto60%offcleaningaccessoriestyre&rimcarehelmetsvacuumcleanerseemoresigninforyourbestexperiencesigninforyourbestexperiencesigninsecurelysponsoredupto60%off|professionaltools,testing&moreprofessionaltoolsmeasuringinstrumentscleaningsuppliesmedicalsuppliesseemorestarting₹87|amazonbrands&morestarting₹149|choppers&morestarting₹87|stringlights&morestarting₹239|kitchenstorage&containersstarting₹189|wallstickers&moreshopnowrevampyourhomeinstylebedsheets,curtains&morehomedecorationhomestoragelightingsolutionsexploreallupto60%off|stylesformenclothingfootwearwatchesbags&luggageseeallofferstoday’sdealsseealldealsupto76%offdealofthedaycrazydealonboatheadphonesandspeakerscrazydealonboatheadphonesand…14%offdealoftheday₹18,999.00₹18,999.00m.r.p.:₹21,999.00₹21,999.00oppoa78startingat17499,includingotheroffersoppoa78startingat17499,including…upto83%offdealofthedaylevi's,allensolly,annidesigner&morelevi's,allensolly,annidesigner&…upto67%offdealofthedayblockbusterdealsonjbltruewirelessearbudsblockbusterdealsonjbltruewireles…upto64%offdealofthedaytitan,timex,maximaandmoretitan,timex,maximaandmoreupto72%offdealofthedayexcitingoffer-trukepremiumearbudsexcitingoffer-trukepremiumearbuds53%offdealoftheday₹34,999.00₹34,999.00m.r.p.:₹74,999.00₹74,999.00bestoffersonsamsungs20fe5gbestoffersonsamsungs20fe5gupto76%offdealofthedayjawdroppingoffersonzebronicsaudiojawdroppingoffersonzebronicsaudioupto72%offdealofthedayjawdroppingdealsonspeaker,soundbarsandotheraccessoriesjawdroppingdealsonspeaker,soun…upto64%offdealofthedaybestsellinggames&puzzlesbestsellinggames&puzzlesupto69%offdealofthedaybestsellingnoiseheadphonesbestsellingnoiseheadphones12%offdealoftheday₹6,599.00₹6,599.00m.r.p.:₹7,499.00₹7,499.00nokiac122/64,starting6499/-nokiac122/64,starting6499/-upto69%offdealofthedaytopoffersoncomputeraccessoriestopoffersoncomputeraccessoriesupto87%offdealofthedaywallpapersandwallartwallpapersandwallartupto41%offdealofthedaybestoffersfromv-guardproductsbestoffersfromv-guardproductsupto63%offdealofthedaybestsellinglearning&educationtoysbestsellinglearning&educationtoysupto55%offdealofthedaybestoffersonladdersandironingboardsbestoffersonladdersandironingboa…upto42%offdealofthedaybestoffersonamericanmicronicbestoffersonamericanmicronicupto50%off|kitchenappliances,cookware&moreseealloffershealth&beautybestsellersseeallofferssellonamazonwith1-clicklaunchsupportregisternowelectronicsdevicesforhomeofficesmartwatches&fitnesstrackerstabletslaptopsmonitorsseemorestarting₹99|startyourfitnessjourneyseemoreupto60%off|tools&homeimprovementspinmops,wipes&moredrillmachines,toolkits&morebathroomaccessoriesextensionboards,plugs&moreseemorebestsellersincomputers&accessoriesamazonlive|watch,chat&shopliveseemorefromamazonlivelive572trendyvacationoutfitsandaccessoriesstartingfrom₹499watchnowsparshalawadhiisapartoftheamazoninfluencerprogrampetricetoiletrybagforwomenmakeuppouchwaterproofshowerwashbagcosmeticorganizercasetravelkitpackwithhook(green)₹499.00₹999.00pramaddapureluxurytouristerveganleather9inchslingbagformenwomen|chestcrossbodysidebeg|mobilepassportdocumentslingtravelpouchwaterproof|corporategiftitem.₹499.00₹1499.00featurednowklondonstylishrealleatherblackwaistbagelegantstyletravelpouchpassportholderwithadjustablestrap(246_black)₹329.00₹1,800.00shopyvid®puleatherstylishandtrendingwomenbackpackforcollegeofficetravelbaggirlshandbagpurseblack₹369.00₹1126.00passpassmen&womenretrodrivingrectangularsunglasses(packof2)₹210.00₹999.00richclub-polarizedsportsunglassesformenwomenuv400-cycling/running/cricketsportssunglassesshades₹499.00₹999.00onlinemantraunisexadultsquaresunglasseswhiteframeandblacklens₹115.00₹299.00onlinemantraunisexadultsquaresunglassesblackframeandblacklens₹115.00₹299.00aliconsportsshoesformen|laceuplightweightshoesforrunning,walking,gym,trekking,hiking&partyrunningshoesformen's₹499.00₹1,499.00casualsneakersformenlaceuplightweightshoesforrunning,walking,gym,trekking,hiking&partyrunningshoesformenblack₹349.00₹699.00electronicspicesdiypowerbankkit,normalbatterychargeroutercase,plasticshellboxwith3usbpowerbankmodule,poweron/offswitchchargingmobilepowercasekit(batterynotincluded)multicolor₹169.00₹249.00minimalistcreamsunscreenspf50lightweightwithmulti-vitamins,nowhitecast,broadspectrumpa++++acnesafeforunisex,50g₹379.00₹399.00urbangabruclayhairwax:zerotoinfinity-stronghold|volume|hairstyle(hairwax100gm)₹349.00₹400.00merleherbsactivatedcharcoalfacewashforacne|oilcontrol&removestanning|formenandwomen(200ml)₹649.00₹750.00lyriqcasualshirtformen||shirtformen||menstylishshirt||menprintedshirt₹398.00₹1,999.00levi'smen's025roundneckcottont-shirtwithsmartskintechnology₹384.00₹549.00hangouthubvacationmodeon-setof1-mencottonregularfittshirts-familymatchingtwinningtshirts₹379.00₹999.00hangouthubmen'swomen'sboy'sgirl'sroundneckt-shirtvacationmodeonprinted-bluecolor-familycombotees₹399.00₹999.00smartwatchformenwomenboys1.3\"oledhddisplay,multiplewatchfaces,spo2monitoring,sleepmonitorforboys,girls,mens,women&kidsforallsmartphones(id116plusblack)(id116black)₹432.00₹1,899.00izu..digitaldialwaterproofstylishandcartoonprintedanalogstylishandfashionablewristsmartwatchledbandforkid,cartooncharactersuperheroforboys,girls&kids(m4-square)₹249.00₹799.00aylwaterproofd-20touchscreensmartwatchbluetoothsmartwatchwithbloodpressuretracking,heartratesensorandbasicfunctionalityforallwomenandgirls(pink)₹470.00₹1,499.00cosmusmen'sslingbag(red&black)₹487.00₹899.00pramaddapureluxuryglossleathersmallslingbagformen|chestslingerbag|crossbodybag|sidebagmen|minileatherslings|corporategiftitem|passportdocumentsling.₹419.00₹1,499.00biotiquefruitbrighteningdepigmentation&tanremovalfacepackforallskintypes,75gm₹168.00₹199.00ustraade-tancream50g-dermatologicallytested-fortanremoval&evenskintone,withjapaneseyuzu&liquoric,preventsdarkspots,withoutbleach,nosulphates,noparabens₹199.00₹250.00flitemen'sflipflop₹349.00₹399.00flitemensfl0245gsliders₹299.00greciilookscasualshirtformen|mensshirt|printedshirtsformen|casualshirtsformen|floralshirtsformen|beachwearmen|printedstitchedhalfsleeveshirt₹379.00₹2,499.00greciilookscasualshirtformen|shirtsformen|mensshirt|printedshirtsformen|casualshirtsformen|floralshirtsformen|beachwearmen₹379.00₹2,499.00lymiocasualshirtformen||shirtformen||menstylishshirt||menprintedshirt(shedfloral)₹349.00₹4,999.00americancrewmen'sregularshorts₹285.00₹2499.00sagesticsindustrialsolutiondenimshortsformenboysblackandwhitecasualsportandpartyuse₹499.00₹1,999.00highstarmenblackwashedregularfitdenimshorts₹594.00₹999.00amazonbrand-symbolmen'sregularfitt-shirt₹299.00₹699.00elegantandstylishrippedskinnyanklelengthblackjeansformen(taperedbottomwithdamage&distressedknee)₹497.00₹1,499.00lapataclassyfauxleatherjacketforboys₹499.00₹999.00kingswaggerchelseabootsforkidsboys₹420.00₹899.00furjadentravelneckpillowrestcushionwitheyemaskandearplugsfortravelinflight,car,train,airplanewith10yearswarrantyforsleepingformenandwomen(black)₹319.00₹1000.00amazonbasics64cmblacksoftsidedcheck-introlley₹2399.00₹7000.00pumaunisex-adultcapwhite₹479.00₹499.00watchmorelivestreamsseemoresponsoredstarting₹149|tools&homeimprovementspinmops,wipes&moredrillmachines,toolkits&morebathroomaccessoriesextensionboards,plugs&moreseemoreeverydaygroceryproducts|amazonlaunchpadexploremoreindianbrandsroomiesseason4outnowonminitvwatchforfree|minitvbirthdaystoregiftformengiftforwomengiftforboysgiftforgirlsseemorebestsellersinbeautybestsellersinclothing&accessoriesbestsellersinwomen'sindianclothingbestsellersinwomen'sindianclothinggosrikiwomenkurtawithpants&dupattagosrikiwomenkurtawithpants&dupatta₹659.00₹659.00m.r.p:₹2,599.00₹2,599.00babydiapers&wipesatgreatpricesexploreallbabyessentialsonestopshopforallyourweddingshoppingshopforhershopforhimpoojaessentialsexplorethestoreseemoreessentialsforexpectingmotherspregnancysupplementsmaternitysleep&loungewearmaternitypillowsmaternityskincareseemorefrequentlyrepurchasedingrocerybacktotopgettoknowusaboutuscareerspressreleasesamazonscienceconnectwithusfacebooktwitterinstagrammakemoneywithussellonamazonsellunderamazonacceleratorprotectandbuildyourbrandamazonglobalsellingbecomeanaffiliatefulfilmentbyamazonadvertiseyourproductsamazonpayonmerchantsletushelpyoucovid-19andamazonyouraccountreturnscentre100%purchaseprotectionamazonappdownloadhelpenglishaustraliabrazilcanadachinafrancegermanyitalyjapanmexiconetherlandspolandsingaporespainturkeyunitedarabemiratesunitedkingdomunitedstatesabebooksbooks,art&collectiblesamazonwebservicesscalablecloudcomputingservicesaudibledownloadaudiobooksdpreviewdigitalphotographyimdbmovies,tv&celebritiesshopbopdesignerfashionbrandsamazonbusinesseverythingforyourbusinessprimenow2-hourdeliveryoneverydayitemsamazonprimemusic90millionsongs,ad-freeover15millionpodcastepisodesconditionsofuse&saleprivacynoticeinterest-basedads©1996-2023,amazon.com,inc.oritsaffiliates",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "10",
+            "tsId": 8,
+            "testData": false,
+            "duration": 2635000000,
+            "executedOn": "2023-04-03T06:42:52.583Z",
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "xpath=//img[@alt='Best offers on Ladders and Ironing boards']",
+            "eArray": [
+                [
+                    "xpath=//img[@alt='Best offers on Ladders and Ironing boards']",
+                    "xpath:img"
+                ],
+                [
+                    "xpath=//div[@id='CardInstanceCrfa5JjozGtXct24ls9p2g']/div[2]/div/ul/li[17]/span/a/div/div/img",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//li[17]/span/a/div/div/img",
+                    "xpath:position"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Best Selling Learning & Education Toys'])[1]/following::img[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Deal of the Day'])[16]/following::img[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Up to'])[14]/preceding::img[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='% off'])[17]/preceding::img[1]",
+                    "xpath:neighbor"
+                ]
+            ],
+            "input": "",
+            "status": "Failed",
+            "elementKey": "img.best offers on ladders and ironing boards",
+            "elementDesc": "Image of Best offers on Ladders and Ironing boards",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "10",
+            "tsId": 8,
+            "testData": false,
+            "duration": 30593000000,
+            "executedOn": "2023-04-03T06:43:23.176Z",
+            "errMessage": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@alt='Best offers on Ladders and Ironing boards']\"}\n  (Session info: chrome=111.0.5563.147)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@alt='Best offers on Ladders and Ironing boards']\"}\n  (Session info: chrome=111.0.5563.147)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:700:17)",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "xpath=//a[contains(text(),'Careers')]",
+            "eArray": [
+                [
+                    "xpath=//a[contains(text(),'Careers')]",
+                    "xpath:link"
+                ],
+                [
+                    "xpath=//div[@id='navFooter']/div/div/div/ul/li[2]/a",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//a[contains(@href, 'https://amazon.jobs')]",
+                    "xpath:href"
+                ],
+                [
+                    "xpath=//li[2]/a",
+                    "xpath:position"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::a[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Get to Know Us'])[1]/following::a[2]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Press Releases'])[1]/preceding::a[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Amazon Science'])[1]/preceding::a[2]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=//a[text()='Careers']",
+                    "xpath:innerText"
+                ]
+            ],
+            "input": "",
+            "status": "NotRun",
+            "elementKey": "link.careers",
+            "elementDesc": "Link for Careers",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "10",
+            "tsId": 8,
+            "testData": false
+        }
+    ],
+    "type": "web",
+    "capabilities": {
+        "remoteUrl": "https://www.amazon.in/",
+        "type": "web",
+        "selectBrowser": "chrome",
+        "selectDevice": "",
+        "isRemote": false,
+        "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+        "isDebugMode": false,
+        "details": {
+            "deviceMetrics": {
+                "name": "",
+                "width": "",
+                "height": "",
+                "pixelRatio": "",
+                "userAgent": ""
+            }
+        }
+    },
+    "testDataExample": [],
+    "isTCValid": true,
+    "externalTestData": false,
+    "recordSessionType": "multiple",
+    "tags": [],
+    "description": "",
+    "shared": false,
+    "executionStatus": "Failed"
+}

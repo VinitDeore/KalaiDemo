@@ -1,0 +1,141 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Drag3",
+    "line": 9,
+    "description": "",
+    "id": "Drag3",
+    "tags": [],
+    "uri": "DragTestt/Drag3",
+    "testSuiteName": "DragTestt",
+    "type": "web",
+    "appName": "chrome",
+    "capability": {
+      "remoteUrl": "https://www.globalsqa.com/demo-site/toolbar/",
+      "type": "web",
+      "selectBrowser": "chrome",
+      "selectDevice": "",
+      "isRemote": false,
+      "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+      "isDebugMode": false,
+      "details": {
+        "deviceMetrics": {
+          "name": "",
+          "width": "",
+          "height": "",
+          "pixelRatio": "",
+          "userAgent": ""
+        }
+      }
+    },
+    "desiredCapabilities": {},
+    "elements": [
+      {
+        "id": "Drag3",
+        "keyword": "Scenario",
+        "description": "",
+        "line": 9,
+        "name": "Drag3",
+        "type": "scenario",
+        "testData": "",
+        "executionStatus": "Failed",
+        "tagName": [],
+        "capability": {
+          "remoteUrl": "https://www.globalsqa.com/demo-site/toolbar/",
+          "type": "web",
+          "selectBrowser": "chrome",
+          "selectDevice": "",
+          "isRemote": false,
+          "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+          "isDebugMode": false,
+          "details": {
+            "deviceMetrics": {
+              "name": "",
+              "width": "",
+              "height": "",
+              "pixelRatio": "",
+              "userAgent": ""
+            }
+          }
+        },
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 1,
+            "name": "get https://www.globalsqa.com/demo-site/toolbar/",
+            "match": {
+              "location": "Drag3/01"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6950000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 2,
+            "name": "Drag And Drop id=page xpath=//p",
+            "match": {
+              "location": "Drag3/11"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 15553000000,
+              "error_message": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[id=\"page\"]\"}\n  (Session info: chrome=111.0.5563.147)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[id=\"page\"]\"}\n  (Session info: chrome=111.0.5563.147)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:700:17)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 3,
+            "name": "Drag And Drop id=page xpath=//div",
+            "match": {
+              "location": "Drag3/21"
+            },
+            "result": {
+              "status": "notrun"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 4,
+            "name": "Drag And Drop id=page -175,1",
+            "match": {
+              "location": "Drag3/31"
+            },
+            "result": {
+              "status": "notrun"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 5,
+            "name": "Drag And Drop id=page xpath=//div",
+            "match": {
+              "location": "Drag3/41"
+            },
+            "result": {
+              "status": "notrun"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 6,
+            "name": "Drag And Drop id=page xpath=//div",
+            "match": {
+              "location": "Drag3/51"
+            },
+            "result": {
+              "status": "notrun"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

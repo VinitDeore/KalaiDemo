@@ -1,0 +1,196 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "DragTestCase",
+    "line": 9,
+    "description": "",
+    "id": "DragTestCase",
+    "tags": [],
+    "uri": "DragTestt/DragTestCase",
+    "testSuiteName": "DragTestt",
+    "type": "web",
+    "appName": "chrome",
+    "capability": {
+      "remoteUrl": "https://www.amazon.in/",
+      "type": "web",
+      "selectBrowser": "chrome",
+      "selectDevice": "",
+      "isRemote": false,
+      "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+      "isDebugMode": false,
+      "details": {
+        "deviceMetrics": {
+          "name": "",
+          "width": "",
+          "height": "",
+          "pixelRatio": "",
+          "userAgent": ""
+        }
+      }
+    },
+    "desiredCapabilities": {},
+    "elements": [
+      {
+        "id": "DragTestCase",
+        "keyword": "Scenario",
+        "description": "",
+        "line": 9,
+        "name": "DragTestCase",
+        "type": "scenario",
+        "testData": "",
+        "executionStatus": "Passed",
+        "tagName": [],
+        "capability": {
+          "remoteUrl": "https://www.amazon.in/",
+          "type": "web",
+          "selectBrowser": "chrome",
+          "selectDevice": "",
+          "isRemote": false,
+          "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+          "isDebugMode": false,
+          "details": {
+            "deviceMetrics": {
+              "name": "",
+              "width": "",
+              "height": "",
+              "pixelRatio": "",
+              "userAgent": ""
+            }
+          }
+        },
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 1,
+            "name": "get https://www.amazon.in/",
+            "match": {
+              "location": "DragTestCase/01"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 23061000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 2,
+            "name": "click on xpath=//a[contains(text(),'Best Sellers')]",
+            "match": {
+              "location": "DragTestCase/11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5033000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 3,
+            "name": "click on xpath=//a[@id='nav-hamburger-menu']/span",
+            "match": {
+              "location": "DragTestCase/21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 677000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 4,
+            "name": "Drag And Drop xpath=//a[@id='nav-hamburger-menu']/span xpath=//div[@id='hmenu-content']/ul/li/div",
+            "match": {
+              "location": "DragTestCase/31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 550000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 5,
+            "name": "click on xpath=//div[@id='hmenu-canvas-background']/div",
+            "match": {
+              "location": "DragTestCase/41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 632000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 6,
+            "name": "click on xpath=//a[contains(text(),'Bestsellers')]",
+            "match": {
+              "location": "DragTestCase/51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1369000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 7,
+            "name": "click on xpath=//div[@id='anonCarousel2']/ol",
+            "match": {
+              "location": "DragTestCase/61"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 780000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 8,
+            "name": "Drag And Drop xpath=//div[@id='anonCarousel2']/ol/li xpath=//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span",
+            "match": {
+              "location": "DragTestCase/71"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 546000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 9,
+            "name": "click on xpath=//a[@id='a-autoid-3']/span",
+            "match": {
+              "location": "DragTestCase/81"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6092000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 10,
+            "name": "Drag And Drop xpath=//a[@id='a-autoid-3']/span xpath=//div[@id='anonCarousel2']/ol",
+            "match": {
+              "location": "DragTestCase/91"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 538000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

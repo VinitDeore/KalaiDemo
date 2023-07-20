@@ -1,0 +1,163 @@
+{
+    "displayedData": {
+        "tPass": 0,
+        "tSkip": 0,
+        "tFail": 1,
+        "tTime": 0,
+        "tTc": 1
+    },
+    "totalSuits": [
+        {
+            "name": "web",
+            "data": {
+                "total": 1,
+                "pass": 0,
+                "fail": 1,
+                "skip": 0,
+                "envInfo": {
+                    "browser-desired-capabilities": {
+                        "takesScreenshot": "false",
+                        "javascriptEnabled": "true",
+                        "cssSelectorsEnabled": "true",
+                        "platform": "win32",
+                        "browserName": "chrome"
+                    },
+                    "browser-actual-capabilities": {
+                        "takesScreenshot": "false",
+                        "javascriptEnabled": "true",
+                        "cssSelectorsEnabled": "true",
+                        "platform": "win32",
+                        "browserName": "chrome"
+                    },
+                    "isfw-build-info": {},
+                    "run-parameters": {
+                        "resources": "resources/testdata",
+                        "scenario.file.loc": "scenarios/web"
+                    },
+                    "execution-env-info": {
+                        "host": "Q167",
+                        "os.name": "Windows 10",
+                        "user.name": "vinit.deore",
+                        "os.version": "10.0.19044"
+                    }
+                },
+                "classes": [
+                    "DragTestt"
+                ],
+                "startTime": 0,
+                "endTime": 0
+            },
+            "Status": [
+                {
+                    "name": "Pass",
+                    "data": 0,
+                    "bgColor": "#5cb85c"
+                },
+                {
+                    "name": "Skip",
+                    "data": 0,
+                    "bgColor": "#f0ad4e"
+                },
+                {
+                    "name": "Fail",
+                    "data": 100,
+                    "bgColor": "#d9534f"
+                }
+            ],
+            "browserClass": "chrome",
+            "obname": "Web"
+        }
+    ],
+    "chartData": [
+        0,
+        0,
+        100
+    ],
+    "config": "chart",
+    "viewMode": "ui",
+    "finalFileData": [
+        {
+            "index": 1,
+            "type": "test",
+            "args": [],
+            "metaData": {
+                "author": "vinit.deore",
+                "description": "",
+                "groups": [],
+                "lineNo": 0,
+                "name": "Drag3",
+                "referece": "",
+                "resultFileName": "Drag3",
+                "testSuiteName": "DragTestt",
+                "sign": "",
+                "executedOn": "Local"
+            },
+            "dependsOn": [],
+            "startTime": 0,
+            "duration": null,
+            "result": "fail",
+            "passPer": 0,
+            "platform": "web",
+            "checkpoints": [
+                {
+                    "label": "Given get https://www.globalsqa.com/demo-site/toolbar/ [ 6.950s ]",
+                    "collapsedIcon": "fa fa-check ",
+                    "children": [],
+                    "styleClass": "TestStepPass",
+                    "thresHold": "false",
+                    "screenshotSrc": ""
+                },
+                {
+                    "label": "And Drag And Drop id=page xpath=//p [ 15.553s ]",
+                    "collapsedIcon": "fa fa-chevron-circle-right ",
+                    "expandedIcon": "fa fa-chevron-circle-down",
+                    "children": [
+                        {
+                            "label": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[id=\"page\"]\"}\n  (Session info: chrome=111.0.5563.147)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[id=\"page\"]\"}\n  (Session info: chrome=111.0.5563.147)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensionsode_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensionsode_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensionsode_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensionsode_modules\\selenium-webdriver\\lib\\webdriver.js:700:17) [ 15.553s ]",
+                            "collapsedIcon": "fa fa-check",
+                            "children": [],
+                            "styleClass": "fail",
+                            "thresHold": "false",
+                            "screenshotSrc": ""
+                        }
+                    ],
+                    "styleClass": "TestStepFail",
+                    "thresHold": "false",
+                    "screenshotSrc": ""
+                },
+                {
+                    "label": "And Drag And Drop id=page xpath=//div ",
+                    "collapsedIcon": "fa fa-exclamation-circle",
+                    "children": [],
+                    "styleClass": "TestStep",
+                    "thresHold": "false",
+                    "screenshotSrc": ""
+                },
+                {
+                    "label": "And Drag And Drop id=page -175,1 ",
+                    "collapsedIcon": "fa fa-exclamation-circle",
+                    "children": [],
+                    "styleClass": "TestStep",
+                    "thresHold": "false",
+                    "screenshotSrc": ""
+                },
+                {
+                    "label": "And Drag And Drop id=page xpath=//div ",
+                    "collapsedIcon": "fa fa-exclamation-circle",
+                    "children": [],
+                    "styleClass": "TestStep",
+                    "thresHold": "false",
+                    "screenshotSrc": ""
+                },
+                {
+                    "label": "And Drag And Drop id=page xpath=//div ",
+                    "collapsedIcon": "fa fa-exclamation-circle",
+                    "children": [],
+                    "styleClass": "TestStep",
+                    "thresHold": "false",
+                    "screenshotSrc": ""
+                }
+            ]
+        }
+    ]
+}

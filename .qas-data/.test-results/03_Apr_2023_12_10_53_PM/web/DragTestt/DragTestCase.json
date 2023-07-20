@@ -1,0 +1,91 @@
+{
+  "seleniumLog": [],
+  "checkPoints": [
+    {
+      "message": "Given get https://www.amazon.in/",
+      "type": "TestStepFail",
+      "duration": 30142,
+      "threshold": 0,
+      "subCheckPoints": [
+        {
+          "message": "{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"18.66.54.214\",\"port\":443}",
+          "type": "fail",
+          "duration": 30142,
+          "threshold": 0,
+          "subCheckPoints": []
+        }
+      ]
+    },
+    {
+      "message": "And click on xpath=//a[contains(text(),'Best Sellers')]",
+      "type": "TestStepPass",
+      "duration": 2987,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//a[@id='nav-hamburger-menu']/span",
+      "type": "TestStepPass",
+      "duration": 2104,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And Drag And Drop xpath=//a[@id='nav-hamburger-menu']/span xpath=//div[@id='hmenu-content']/ul/li/div",
+      "type": "TestStepFail",
+      "duration": 15597,
+      "threshold": 0,
+      "subCheckPoints": [
+        {
+          "message": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='hmenu-content']/ul/li/div\"}\n  (Session info: chrome=111.0.5563.147)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='hmenu-content']/ul/li/div\"}\n  (Session info: chrome=111.0.5563.147)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:700:17)\n\tat async toWireValue (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:139:15)\n\tat async c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:190:16\n\tat async forEachKey (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:180:9)\n\tat async convertKeys (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:189:3)\n\tat async c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:190:16\n\tat async forEachKey (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:184:9)\n\tat async convertKeys (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:189:3)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:698:22)",
+          "type": "fail",
+          "duration": 15597,
+          "threshold": 0,
+          "subCheckPoints": []
+        }
+      ]
+    },
+    {
+      "message": "And click on xpath=//div[@id='hmenu-canvas-background']/div",
+      "type": "TestStep",
+      "duration": null,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//a[contains(text(),'Bestsellers')]",
+      "type": "TestStep",
+      "duration": null,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//div[@id='anonCarousel2']/ol",
+      "type": "TestStep",
+      "duration": null,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And Drag And Drop xpath=//div[@id='anonCarousel2']/ol/li xpath=//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span",
+      "type": "TestStep",
+      "duration": null,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//a[@id='a-autoid-3']/span",
+      "type": "TestStep",
+      "duration": null,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And Drag And Drop xpath=//a[@id='a-autoid-3']/span xpath=//div[@id='anonCarousel2']/ol",
+      "type": "TestStep",
+      "duration": null,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

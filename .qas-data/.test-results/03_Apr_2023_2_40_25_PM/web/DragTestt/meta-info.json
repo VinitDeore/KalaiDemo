@@ -1,0 +1,26 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "author": "vinit.deore",
+        "description": "",
+        "groups": [],
+        "lineNo": 0,
+        "name": "Drag3",
+        "referece": "",
+        "resultFileName": "Drag3",
+        "testSuiteName": "DragTestt",
+        "sign": "",
+        "executedOn": "Local"
+      },
+      "dependsOn": [],
+      "startTime": 0,
+      "duration": null,
+      "result": "fail",
+      "passPer": 0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "reports": [
+    {
+      "name": "DragTestt",
+      "dir": ".qas-data/.test-results/26_May_2023_1_54_23_PM",
+      "startTime": 1685089463941
+    },
+    {
+      "name": "DragTestt",
+      "dir": ".qas-data/.test-results/03_Apr_2023_2_40_25_PM",
+      "startTime": 1680513025573
+    },
+    {
+      "name": "DragTestt",
+      "dir": ".qas-data/.test-results/03_Apr_2023_12_55_53_PM",
+      "startTime": 1680506753014
+    },
+    {
+      "name": "DragTestt",
+      "dir": ".qas-data/.test-results/03_Apr_2023_12_52_48_PM",
+      "startTime": 1680506568500
+    },
+    {
+      "name": "DragTestt",
+      "dir": ".qas-data/.test-results/03_Apr_2023_12_13_55_PM",
+      "startTime": 1680504235299
+    },
+    {
+      "name": "DragTestt",
+      "dir": ".qas-data/.test-results/03_Apr_2023_12_10_53_PM",
+      "startTime": 1680504053076
+    }
+  ]
+}

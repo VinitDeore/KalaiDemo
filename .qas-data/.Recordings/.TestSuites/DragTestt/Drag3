@@ -1,0 +1,286 @@
+{
+    "steps": [
+        {
+            "command": "Open",
+            "element": "",
+            "eArray": [],
+            "input": "https://www.globalsqa.com/demo-site/toolbar/",
+            "status": "Passed",
+            "elementKey": "",
+            "elementDesc": "",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "11",
+            "tsId": 8,
+            "testData": false,
+            "duration": 6950000000,
+            "executedOn": "2023-04-03T07:26:13.300Z",
+            "errMessage": "",
+            "isRowExpanded": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "id=page",
+            "eArray": [
+                [
+                    "id=page",
+                    "id"
+                ],
+                [
+                    "xpath=//pre",
+                    "xpath:position"
+                ],
+                [
+                    "css=#page",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='ProseMirror'])[1]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[3]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ]
+            ],
+            "input": "xpath=//p",
+            "status": "Failed",
+            "elementKey": "p.asampleeditortoolbar",
+            "elementDesc": "Paragraph asampleeditortoolbar",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "11",
+            "tsId": 8,
+            "testData": false,
+            "duration": 15553000000,
+            "executedOn": "2023-04-03T07:26:28.853Z",
+            "errMessage": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[id=\"page\"]\"}\n  (Session info: chrome=111.0.5563.147)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[id=\"page\"]\"}\n  (Session info: chrome=111.0.5563.147)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:700:17)",
+            "isRowExpanded": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "id=page",
+            "eArray": [
+                [
+                    "id=page",
+                    "id"
+                ],
+                [
+                    "xpath=//pre",
+                    "xpath:position"
+                ],
+                [
+                    "css=#page",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='ProseMirror'])[1]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[3]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ]
+            ],
+            "input": "xpath=//div",
+            "status": "NotRun",
+            "elementKey": "div.printundoredozoomfontsizehighlightcolorbiutherimeoftheancientmarinertextof1834bysamueltaylorcoleridgeargumenthowashiphavingpassedthelinewasdrivenbystormstothecoldcountrytowardsthesouthpole;andhowfromthenceshemadehercoursetothetropicallatitudeofthegreatpacificocean;andofthestrangethingsthatbefell;andinwhatmannertheancyentmarinerecamebacktohisowncountry.partiitisanancientmarinerandhestoppethoneofthree.bythylonggreybeardandglitteringeyenowwhereforestoppstthoumethebridegroomsdoorsareopenedwideandiamnextofkin;theguestsaremetthefeastissetmaysthearthemerrydin.heholdshimwithhisskinnyhandtherewasashipquothhe.holdoff!unhandmegrey-beardloon!eftsoonshishanddropthe.heholdshimwithhisglitteringeye—thewedding-gueststoodstillandlistenslikeathreeyearschildthemarinerhathhiswill.thewedding-guestsatonastonehecannotchoosebuthear;andthusspakeonthatancientmanthebright-eyedmariner.theshipwascheeredtheharbourclearedmerrilydidwedropbelowthekirkbelowthehillbelowthelighthousetop.thesuncameupupontheleftoutoftheseacamehe!andheshonebrightandontherightwentdownintothesea.higherandhighereverydaytilloverthemastatnoon—thewedding-guestherebeathisbreastforheheardtheloudbassoon.thebridehathpacedintothehallredasaroseisshe;noddingtheirheadsbeforehergoesthemerryminstrelsy.thewedding-guesthebeathisbreastyethecannotchoosebuthear;andthusspakeonthatancientmanthebright-eyedmariner.andnowthestorm-blastcameandhewastyrannousandstronghestruckwithhisoertakingwingsandchasedussouthalong.withslopingmastsanddippingprowaswhopursuedwithyellandblowstilltreadstheshadowofhisfoeandforwardbendshisheadtheshipdrovefastloudroaredtheblastandsouthwardayewefled.andnowtherecamebothmistandsnowanditgrewwondrouscoldandicemast-highcamefloatingbyasgreenasemerald.andthroughthedriftsthesnowycliftsdidsendadismalsheennorshapesofmennorbeastsweken—theicewasallbetween.theicewasheretheicewastheretheicewasallarounditcrackedandgrowledandroaredandhowledlikenoisesinaswound!atlengthdidcrossanalbatrossthoroughthefogitcame;asifithadbeenachristiansoulwehaileditingodsname.itatethefooditneerhadeatandroundandrounditflew.theicedidsplitwithathunder-fit;thehelmsmansteeredusthrough!andagoodsouthwindsprungupbehind;thealbatrossdidfollowandeverydayforfoodorplaycametothemarinershollo!inmistorcloudonmastorshrouditperchedforvespersnine;whilesallthenightthroughfog-smokewhiteglimmeredthewhitemoon-shine.godsavetheeancientmariner!fromthefiendsthatplaguetheethus!—whylookstthouso—withmycross-bowishotthealbatross",
+            "elementDesc": "Text printundoredozoomfontsizehighlightcolorbiutherimeoftheancientmariner(textof1834)bysamueltaylorcoleridgeargumenthowashiphavingpassedthelinewasdrivenbystormstothecoldcountrytowardsthesouthpole;andhowfromthenceshemadehercoursetothetropicallatitudeofthegreatpacificocean;andofthestrangethingsthatbefell;andinwhatmannertheancyentmarinerecamebacktohisowncountry.partiitisanancientmariner,andhestoppethoneofthree.'bythylonggreybeardandglitteringeye,nowwhereforestopp'stthoume?thebridegroom'sdoorsareopenedwide,andiamnextofkin;theguestsaremet,thefeastisset:may'sthearthemerrydin.'heholdshimwithhisskinnyhand,'therewasaship,'quothhe.'holdoff!unhandme,grey-beardloon!'eftsoonshishanddropthe.heholdshimwithhisglitteringeye—thewedding-gueststoodstill,andlistenslikeathreeyears'child:themarinerhathhiswill.thewedding-guestsatonastone:hecannotchoosebuthear;andthusspakeonthatancientman,thebright-eyedmariner.'theshipwascheered,theharbourcleared,merrilydidwedropbelowthekirk,belowthehill,belowthelighthousetop.thesuncameupupontheleft,outoftheseacamehe!andheshonebright,andontherightwentdownintothesea.higherandhighereveryday,tilloverthemastatnoon—'thewedding-guestherebeathisbreast,forheheardtheloudbassoon.thebridehathpacedintothehall,redasaroseisshe;noddingtheirheadsbeforehergoesthemerryminstrelsy.thewedding-guesthebeathisbreast,yethecannotchoosebuthear;andthusspakeonthatancientman,thebright-eyedmariner.andnowthestorm-blastcame,andhewastyrannousandstrong:hestruckwithhiso'ertakingwings,andchasedussouthalong.withslopingmastsanddippingprow,aswhopursuedwithyellandblowstilltreadstheshadowofhisfoe,andforwardbendshishead,theshipdrovefast,loudroaredtheblast,andsouthwardayewefled.andnowtherecamebothmistandsnow,anditgrewwondrouscold:andice,mast-high,camefloatingby,asgreenasemerald.andthroughthedriftsthesnowycliftsdidsendadismalsheen:norshapesofmennorbeastsweken—theicewasallbetween.theicewashere,theicewasthere,theicewasallaround:itcrackedandgrowled,androaredandhowled,likenoisesinaswound!atlengthdidcrossanalbatross,thoroughthefogitcame;asifithadbeenachristiansoul,wehaileditingod'sname.itatethefooditne'erhadeat,androundandrounditflew.theicedidsplitwithathunder-fit;thehelmsmansteeredusthrough!andagoodsouthwindsprungupbehind;thealbatrossdidfollow,andeveryday,forfoodorplay,cametothemariner'shollo!inmistorcloud,onmastorshroud,itperchedforvespersnine;whilesallthenight,throughfog-smokewhite,glimmeredthewhitemoon-shine.''godsavethee,ancientmariner!fromthefiends,thatplaguetheethus!—whylook'stthouso?'—withmycross-bowishotthealbatross.",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "11",
+            "tsId": 8,
+            "testData": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "id=page",
+            "eArray": [
+                [
+                    "id=page",
+                    "id"
+                ],
+                [
+                    "xpath=//pre",
+                    "xpath:position"
+                ],
+                [
+                    "css=#page",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='ProseMirror'])[1]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[3]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ]
+            ],
+            "input": "-175,1",
+            "status": "NotRun",
+            "elementKey": "pre.page",
+            "elementDesc": "PRE page",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "11",
+            "tsId": 8,
+            "testData": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "id=page",
+            "eArray": [
+                [
+                    "id=page",
+                    "id"
+                ],
+                [
+                    "xpath=//pre",
+                    "xpath:position"
+                ],
+                [
+                    "css=#page",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='ProseMirror'])[1]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[3]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ]
+            ],
+            "input": "xpath=//div",
+            "status": "NotRun",
+            "elementKey": "div.printundoredozoomfontsizehighlightcolorbiutherimeoftheancientmarinertextof1834bysamueltaylorcoleridgeargumenthowashiphavingpassedthelinewasdrivenbystormstothecoldcountrytowardsthesouthpole;andhowfromthenceshemadehercoursetothetropicallatitudeofthegreatpacificocean;andofthestrangethingsthatbefell;andinwhatmannertheancyentmarinerecamebacktohisowncountry.partiitisanancientmarinerandhestoppethoneofthree.bythylonggreybeardandglitteringeyenowwhereforestoppstthoumethebridegroomsdoorsareopenedwideandiamnextofkin;theguestsaremetthefeastissetmaysthearthemerrydin.heholdshimwithhisskinnyhandtherewasashipquothhe.holdoff!unhandmegrey-beardloon!eftsoonshishanddropthe.heholdshimwithhisglitteringeye—thewedding-gueststoodstillandlistenslikeathreeyearschildthemarinerhathhiswill.thewedding-guestsatonastonehecannotchoosebuthear;andthusspakeonthatancientmanthebright-eyedmariner.theshipwascheeredtheharbourclearedmerrilydidwedropbelowthekirkbelowthehillbelowthelighthousetop.thesuncameupupontheleftoutoftheseacamehe!andheshonebrightandontherightwentdownintothesea.higherandhighereverydaytilloverthemastatnoon—thewedding-guestherebeathisbreastforheheardtheloudbassoon.thebridehathpacedintothehallredasaroseisshe;noddingtheirheadsbeforehergoesthemerryminstrelsy.thewedding-guesthebeathisbreastyethecannotchoosebuthear;andthusspakeonthatancientmanthebright-eyedmariner.andnowthestorm-blastcameandhewastyrannousandstronghestruckwithhisoertakingwingsandchasedussouthalong.withslopingmastsanddippingprowaswhopursuedwithyellandblowstilltreadstheshadowofhisfoeandforwardbendshisheadtheshipdrovefastloudroaredtheblastandsouthwardayewefled.andnowtherecamebothmistandsnowanditgrewwondrouscoldandicemast-highcamefloatingbyasgreenasemerald.andthroughthedriftsthesnowycliftsdidsendadismalsheennorshapesofmennorbeastsweken—theicewasallbetween.theicewasheretheicewastheretheicewasallarounditcrackedandgrowledandroaredandhowledlikenoisesinaswound!atlengthdidcrossanalbatrossthoroughthefogitcame;asifithadbeenachristiansoulwehaileditingodsname.itatethefooditneerhadeatandroundandrounditflew.theicedidsplitwithathunder-fit;thehelmsmansteeredusthrough!andagoodsouthwindsprungupbehind;thealbatrossdidfollowandeverydayforfoodorplaycametothemarinershollo!inmistorcloudonmastorshrouditperchedforvespersnine;whilesallthenightthroughfog-smokewhiteglimmeredthewhitemoon-shine.godsavetheeancientmariner!fromthefiendsthatplaguetheethus!—whylookstthouso—withmycross-bowishotthealbatross",
+            "elementDesc": "Text printundoredozoomfontsizehighlightcolorbiutherimeoftheancientmariner(textof1834)bysamueltaylorcoleridgeargumenthowashiphavingpassedthelinewasdrivenbystormstothecoldcountrytowardsthesouthpole;andhowfromthenceshemadehercoursetothetropicallatitudeofthegreatpacificocean;andofthestrangethingsthatbefell;andinwhatmannertheancyentmarinerecamebacktohisowncountry.partiitisanancientmariner,andhestoppethoneofthree.'bythylonggreybeardandglitteringeye,nowwhereforestopp'stthoume?thebridegroom'sdoorsareopenedwide,andiamnextofkin;theguestsaremet,thefeastisset:may'sthearthemerrydin.'heholdshimwithhisskinnyhand,'therewasaship,'quothhe.'holdoff!unhandme,grey-beardloon!'eftsoonshishanddropthe.heholdshimwithhisglitteringeye—thewedding-gueststoodstill,andlistenslikeathreeyears'child:themarinerhathhiswill.thewedding-guestsatonastone:hecannotchoosebuthear;andthusspakeonthatancientman,thebright-eyedmariner.'theshipwascheered,theharbourcleared,merrilydidwedropbelowthekirk,belowthehill,belowthelighthousetop.thesuncameupupontheleft,outoftheseacamehe!andheshonebright,andontherightwentdownintothesea.higherandhighereveryday,tilloverthemastatnoon—'thewedding-guestherebeathisbreast,forheheardtheloudbassoon.thebridehathpacedintothehall,redasaroseisshe;noddingtheirheadsbeforehergoesthemerryminstrelsy.thewedding-guesthebeathisbreast,yethecannotchoosebuthear;andthusspakeonthatancientman,thebright-eyedmariner.andnowthestorm-blastcame,andhewastyrannousandstrong:hestruckwithhiso'ertakingwings,andchasedussouthalong.withslopingmastsanddippingprow,aswhopursuedwithyellandblowstilltreadstheshadowofhisfoe,andforwardbendshishead,theshipdrovefast,loudroaredtheblast,andsouthwardayewefled.andnowtherecamebothmistandsnow,anditgrewwondrouscold:andice,mast-high,camefloatingby,asgreenasemerald.andthroughthedriftsthesnowycliftsdidsendadismalsheen:norshapesofmennorbeastsweken—theicewasallbetween.theicewashere,theicewasthere,theicewasallaround:itcrackedandgrowled,androaredandhowled,likenoisesinaswound!atlengthdidcrossanalbatross,thoroughthefogitcame;asifithadbeenachristiansoul,wehaileditingod'sname.itatethefooditne'erhadeat,androundandrounditflew.theicedidsplitwithathunder-fit;thehelmsmansteeredusthrough!andagoodsouthwindsprungupbehind;thealbatrossdidfollow,andeveryday,forfoodorplay,cametothemariner'shollo!inmistorcloud,onmastorshroud,itperchedforvespersnine;whilesallthenight,throughfog-smokewhite,glimmeredthewhitemoon-shine.''godsavethee,ancientmariner!fromthefiends,thatplaguetheethus!—whylook'stthouso?'—withmycross-bowishotthealbatross.",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "11",
+            "tsId": 8,
+            "testData": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "id=page",
+            "eArray": [
+                [
+                    "id=page",
+                    "id"
+                ],
+                [
+                    "xpath=//pre",
+                    "xpath:position"
+                ],
+                [
+                    "css=#page",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/following::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='ProseMirror'])[1]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[3]/preceding::pre[1]",
+                    "xpath:neighbor"
+                ]
+            ],
+            "input": "xpath=//div",
+            "status": "NotRun",
+            "elementKey": "div.printundoredozoomfontsizehighlightcolorbiutherimeoftheancientmarinertextof1834bysamueltaylorcoleridgeargumenthowashiphavingpassedthelinewasdrivenbystormstothecoldcountrytowardsthesouthpole;andhowfromthenceshemadehercoursetothetropicallatitudeofthegreatpacificocean;andofthestrangethingsthatbefell;andinwhatmannertheancyentmarinerecamebacktohisowncountry.partiitisanancientmarinerandhestoppethoneofthree.bythylonggreybeardandglitteringeyenowwhereforestoppstthoumethebridegroomsdoorsareopenedwideandiamnextofkin;theguestsaremetthefeastissetmaysthearthemerrydin.heholdshimwithhisskinnyhandtherewasashipquothhe.holdoff!unhandmegrey-beardloon!eftsoonshishanddropthe.heholdshimwithhisglitteringeye—thewedding-gueststoodstillandlistenslikeathreeyearschildthemarinerhathhiswill.thewedding-guestsatonastonehecannotchoosebuthear;andthusspakeonthatancientmanthebright-eyedmariner.theshipwascheeredtheharbourclearedmerrilydidwedropbelowthekirkbelowthehillbelowthelighthousetop.thesuncameupupontheleftoutoftheseacamehe!andheshonebrightandontherightwentdownintothesea.higherandhighereverydaytilloverthemastatnoon—thewedding-guestherebeathisbreastforheheardtheloudbassoon.thebridehathpacedintothehallredasaroseisshe;noddingtheirheadsbeforehergoesthemerryminstrelsy.thewedding-guesthebeathisbreastyethecannotchoosebuthear;andthusspakeonthatancientmanthebright-eyedmariner.andnowthestorm-blastcameandhewastyrannousandstronghestruckwithhisoertakingwingsandchasedussouthalong.withslopingmastsanddippingprowaswhopursuedwithyellandblowstilltreadstheshadowofhisfoeandforwardbendshisheadtheshipdrovefastloudroaredtheblastandsouthwardayewefled.andnowtherecamebothmistandsnowanditgrewwondrouscoldandicemast-highcamefloatingbyasgreenasemerald.andthroughthedriftsthesnowycliftsdidsendadismalsheennorshapesofmennorbeastsweken—theicewasallbetween.theicewasheretheicewastheretheicewasallarounditcrackedandgrowledandroaredandhowledlikenoisesinaswound!atlengthdidcrossanalbatrossthoroughthefogitcame;asifithadbeenachristiansoulwehaileditingodsname.itatethefooditneerhadeatandroundandrounditflew.theicedidsplitwithathunder-fit;thehelmsmansteeredusthrough!andagoodsouthwindsprungupbehind;thealbatrossdidfollowandeverydayforfoodorplaycametothemarinershollo!inmistorcloudonmastorshrouditperchedforvespersnine;whilesallthenightthroughfog-smokewhiteglimmeredthewhitemoon-shine.godsavetheeancientmariner!fromthefiendsthatplaguetheethus!—whylookstthouso—withmycross-bowishotthealbatross",
+            "elementDesc": "Text printundoredozoomfontsizehighlightcolorbiutherimeoftheancientmariner(textof1834)bysamueltaylorcoleridgeargumenthowashiphavingpassedthelinewasdrivenbystormstothecoldcountrytowardsthesouthpole;andhowfromthenceshemadehercoursetothetropicallatitudeofthegreatpacificocean;andofthestrangethingsthatbefell;andinwhatmannertheancyentmarinerecamebacktohisowncountry.partiitisanancientmariner,andhestoppethoneofthree.'bythylonggreybeardandglitteringeye,nowwhereforestopp'stthoume?thebridegroom'sdoorsareopenedwide,andiamnextofkin;theguestsaremet,thefeastisset:may'sthearthemerrydin.'heholdshimwithhisskinnyhand,'therewasaship,'quothhe.'holdoff!unhandme,grey-beardloon!'eftsoonshishanddropthe.heholdshimwithhisglitteringeye—thewedding-gueststoodstill,andlistenslikeathreeyears'child:themarinerhathhiswill.thewedding-guestsatonastone:hecannotchoosebuthear;andthusspakeonthatancientman,thebright-eyedmariner.'theshipwascheered,theharbourcleared,merrilydidwedropbelowthekirk,belowthehill,belowthelighthousetop.thesuncameupupontheleft,outoftheseacamehe!andheshonebright,andontherightwentdownintothesea.higherandhighereveryday,tilloverthemastatnoon—'thewedding-guestherebeathisbreast,forheheardtheloudbassoon.thebridehathpacedintothehall,redasaroseisshe;noddingtheirheadsbeforehergoesthemerryminstrelsy.thewedding-guesthebeathisbreast,yethecannotchoosebuthear;andthusspakeonthatancientman,thebright-eyedmariner.andnowthestorm-blastcame,andhewastyrannousandstrong:hestruckwithhiso'ertakingwings,andchasedussouthalong.withslopingmastsanddippingprow,aswhopursuedwithyellandblowstilltreadstheshadowofhisfoe,andforwardbendshishead,theshipdrovefast,loudroaredtheblast,andsouthwardayewefled.andnowtherecamebothmistandsnow,anditgrewwondrouscold:andice,mast-high,camefloatingby,asgreenasemerald.andthroughthedriftsthesnowycliftsdidsendadismalsheen:norshapesofmennorbeastsweken—theicewasallbetween.theicewashere,theicewasthere,theicewasallaround:itcrackedandgrowled,androaredandhowled,likenoisesinaswound!atlengthdidcrossanalbatross,thoroughthefogitcame;asifithadbeenachristiansoul,wehaileditingod'sname.itatethefooditne'erhadeat,androundandrounditflew.theicedidsplitwithathunder-fit;thehelmsmansteeredusthrough!andagoodsouthwindsprungupbehind;thealbatrossdidfollow,andeveryday,forfoodorplay,cametothemariner'shollo!inmistorcloud,onmastorshroud,itperchedforvespersnine;whilesallthenight,throughfog-smokewhite,glimmeredthewhitemoon-shine.''godsavethee,ancientmariner!fromthefiends,thatplaguetheethus!—whylook'stthouso?'—withmycross-bowishotthealbatross.",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "11",
+            "tsId": 8,
+            "testData": false,
+            "@@mycolor": null
+        }
+    ],
+    "type": "web",
+    "capabilities": {
+        "remoteUrl": "https://www.globalsqa.com/demo-site/toolbar/",
+        "type": "web",
+        "selectBrowser": "chrome",
+        "selectDevice": "",
+        "isRemote": false,
+        "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+        "isDebugMode": false,
+        "details": {
+            "deviceMetrics": {
+                "name": "",
+                "width": "",
+                "height": "",
+                "pixelRatio": "",
+                "userAgent": ""
+            }
+        }
+    },
+    "testDataExample": [],
+    "isTCValid": true,
+    "externalTestData": false,
+    "recordSessionType": "multiple",
+    "tags": [],
+    "description": "",
+    "shared": false,
+    "executionStatus": "Failed"
+}

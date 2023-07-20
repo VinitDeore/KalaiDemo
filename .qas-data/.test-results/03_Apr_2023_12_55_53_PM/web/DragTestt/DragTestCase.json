@@ -1,0 +1,75 @@
+{
+  "seleniumLog": [],
+  "checkPoints": [
+    {
+      "message": "Given get https://www.amazon.in/",
+      "type": "TestStepPass",
+      "duration": 23061,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//a[contains(text(),'Best Sellers')]",
+      "type": "TestStepPass",
+      "duration": 5033,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//a[@id='nav-hamburger-menu']/span",
+      "type": "TestStepPass",
+      "duration": 677,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And Drag And Drop xpath=//a[@id='nav-hamburger-menu']/span xpath=//div[@id='hmenu-content']/ul/li/div",
+      "type": "TestStepPass",
+      "duration": 550,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//div[@id='hmenu-canvas-background']/div",
+      "type": "TestStepPass",
+      "duration": 632,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//a[contains(text(),'Bestsellers')]",
+      "type": "TestStepPass",
+      "duration": 1369,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//div[@id='anonCarousel2']/ol",
+      "type": "TestStepPass",
+      "duration": 780,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And Drag And Drop xpath=//div[@id='anonCarousel2']/ol/li xpath=//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span",
+      "type": "TestStepPass",
+      "duration": 546,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And click on xpath=//a[@id='a-autoid-3']/span",
+      "type": "TestStepPass",
+      "duration": 6092,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "And Drag And Drop xpath=//a[@id='a-autoid-3']/span xpath=//div[@id='anonCarousel2']/ol",
+      "type": "TestStepPass",
+      "duration": 538,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

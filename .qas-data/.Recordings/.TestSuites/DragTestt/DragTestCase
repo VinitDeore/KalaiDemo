@@ -1,0 +1,543 @@
+{
+    "steps": [
+        {
+            "command": "Open",
+            "element": "",
+            "eArray": [],
+            "input": "https://www.amazon.in/",
+            "status": "Passed",
+            "elementKey": "",
+            "elementDesc": "",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "duration": 7619000000,
+            "executedOn": "2023-05-26T08:22:41.985Z",
+            "errMessage": "",
+            "isRowExpanded": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Click",
+            "element": "link.best.sellers",
+            "eArray": [
+                [
+                    "xpath=//a[contains(text(),'Best Sellers')]",
+                    "xpath:link"
+                ],
+                [
+                    "xpath=//div[@id='nav-xshop']/a[3]",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//a[contains(@href, '/gp/bestsellers/?ref_=nav_cs_bestsellers')]",
+                    "xpath:href"
+                ],
+                [
+                    "xpath=//div[5]/div[2]/div/div/a[3]",
+                    "xpath:position"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Sell'])[1]/following::a[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Amazon miniTV'])[1]/following::a[2]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Mobiles'])[1]/preceding::a[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)=concat('Today', \"'\", 's Deals')])[1]/preceding::a[2]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=//a[text()='Best Sellers']",
+                    "xpath:innerText"
+                ],
+                [
+                    "link.best.sellers",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "Passed",
+            "elementKey": "link.best sellers",
+            "elementDesc": "Link for Best Sellers",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "duration": 3634000000,
+            "executedOn": "2023-05-26T08:22:45.620Z",
+            "errMessage": "",
+            "isRowExpanded": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Click",
+            "element": "span.all",
+            "eArray": [
+                [
+                    "xpath=//a[@id='nav-hamburger-menu']/span",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//div[4]/div/a/span",
+                    "xpath:position"
+                ],
+                [
+                    "css=span.hm-icon-label",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Manage Your Content and Devices'])[1]/following::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Your Seller Account'])[1]/following::span[2]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Amazon miniTV'])[1]/preceding::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Sell'])[1]/preceding::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=//span[text()='All']/ancestor::a",
+                    "xpath:innerText"
+                ],
+                [
+                    "span.all",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "Passed",
+            "elementKey": "span.all",
+            "elementDesc": "Text all",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "duration": 5221000000,
+            "executedOn": "2023-05-26T08:22:50.841Z",
+            "errMessage": "",
+            "isRowExpanded": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "span.all",
+            "eArray": [
+                [
+                    "xpath=//a[@id='nav-hamburger-menu']/span",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//div[4]/div/a/span",
+                    "xpath:position"
+                ],
+                [
+                    "css=span.hm-icon-label",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Manage Your Content and Devices'])[1]/following::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Your Seller Account'])[1]/following::span[2]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Amazon miniTV'])[1]/preceding::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Sell'])[1]/preceding::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=//span[text()='All']/ancestor::a",
+                    "xpath:innerText"
+                ],
+                [
+                    "span.all",
+                    "key"
+                ]
+            ],
+            "input": "xpath=//div[@id='hmenu-content']/ul/li/div",
+            "status": "Passed",
+            "elementKey": "div.trending",
+            "elementDesc": "Text trending",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "duration": 631000000,
+            "executedOn": "2023-05-26T08:22:51.472Z",
+            "errMessage": "",
+            "isRowExpanded": false,
+            "@@mycolor": null
+        },
+        {
+            "command": "Click",
+            "element": "div.nav-spritehmenu-close-icon",
+            "eArray": [
+                [
+                    "xpath=//div[@id='hmenu-canvas-background']/div",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//div[3]/div/div",
+                    "xpath:position"
+                ],
+                [
+                    "css=div.nav-sprite.hmenu-close-icon",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='© 1996-2023, Amazon.com, Inc. or its affiliates'])[1]/following::div[6]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Interest-Based Ads'])[1]/following::div[6]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Close menu'])[1]/preceding::div[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Hello, sign in'])[2]/preceding::div[4]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "div.nav-spritehmenu-close-icon",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "Passed",
+            "elementKey": "div.nav-spritehmenu-close-icon",
+            "elementDesc": "Text nav-spritehmenu-close-icon",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "@@mycolor": null,
+            "duration": 1134000000,
+            "executedOn": "2023-05-26T08:22:52.606Z",
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "link.bestsellers",
+            "eArray": [
+                [
+                    "xpath=//a[contains(text(),'Bestsellers')]",
+                    "xpath:link"
+                ],
+                [
+                    "xpath=//div[@id='CardInstance2dACe4huuehaCWfeXp7EeA']/div/ul/li/div/a",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//a[contains(@href, '/gp/bestsellers/ref=zg_bs_tab')]",
+                    "xpath:href"
+                ],
+                [
+                    "xpath=//li/div/a",
+                    "xpath:position"
+                ],
+                [
+                    "css=div._p13n-zg-nav-tab-all_style_zg-tabs-li-selected-div__3tHnP > a",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Kindle eBooks'])[1]/following::a[3]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='AmazonBasics'])[1]/following::a[4]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Hot New Releases'])[1]/preceding::a[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Movers and Shakers'])[1]/preceding::a[2]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=//a[text()='Bestsellers']",
+                    "xpath:innerText"
+                ],
+                [
+                    "link.bestsellers",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "Passed",
+            "elementKey": "link.bestsellers",
+            "elementDesc": "Link for Bestsellers",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "@@mycolor": null,
+            "duration": 2282000000,
+            "executedOn": "2023-05-26T08:22:54.888Z",
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "ol.1sonyps5playstationconsolesony4.6outof5stars36playstation5.49990.002sonyps5digitalstandalonesony4.4outof5stars12playstation5.39990.003sonydualsensewirelesscontrollerforplaystation5whitesony4.4outof5stars1539playstation5.5389.004rs.500sonyplaystationnetworkwallettop-upemaildeliveryin.sonyinteractiveentertainmenteurope4.7outof5stars4538playstation4.500.00",
+            "eArray": [
+                [
+                    "xpath=//div[@id='anonCarousel2']/ol",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//div[2]/div/div/div/div/div[2]/div/div[2]/div/ol",
+                    "xpath:position"
+                ],
+                [
+                    "css=#anonCarousel2 > ol.a-carousel",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Previous page'])[2]/following::ol[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Page 1 of 5'])[4]/following::ol[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "ol.1sonyps5playstationconsolesony4.6outof5stars36playstation5.49990.002sonyps5digitalstandalonesony4.4outof5stars12playstation5.39990.003sonydualsensewirelesscontrollerforplaystation5whitesony4.4outof5stars1539playstation5.5389.004rs.500sonyplaystationnetworkwallettop-upemaildeliveryin.sonyinteractiveentertainmenteurope4.7outof5stars4538playstation4.500.00",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "Passed",
+            "elementKey": "ol.1sonyps5playstationconsolesony4.6outof5stars36playstation5₹49990.002sonyps5digitalstandalonesony4.4outof5stars12playstation5₹39990.003sonydualsensewirelesscontrollerforplaystation5whitesony4.4outof5stars1539playstation5₹5389.004rs.500sonyplaystationnetworkwallettop-upemaildeliveryin…sonyinteractiveentertainmenteurope4.7outof5stars4538playstation4₹500.00",
+            "elementDesc": "List of #1sonyps5playstationconsolesony4.6outof5stars36playstation5₹49,990.00#2sonyps5digitalstandalonesony4.4outof5stars12playstation5₹39,990.00#3sonydualsensewirelesscontrollerforplaystation5(white)sony4.4outof5stars1,539playstation5₹5,389.00#4rs.500sonyplaystationnetworkwallettop-up(emaildeliveryin…sonyinteractiveentertainmenteurope4.7outof5stars4,538playstation4₹500.00",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "@@mycolor": null,
+            "duration": 933000000,
+            "executedOn": "2023-05-26T08:22:55.821Z",
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "span..39990.00",
+            "eArray": [
+                [
+                    "xpath=//div[@id='anonCarousel2']/ol/li",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//div[2]/div/div/div/div/div[2]/div/div[2]/div/ol/li",
+                    "xpath:position"
+                ],
+                [
+                    "css=#anonCarousel2 > ol.a-carousel > li.a-carousel-card",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Previous page'])[2]/following::li[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Page 1 of 5'])[4]/following::li[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "span..39990.00",
+                    "key"
+                ]
+            ],
+            "input": "xpath=//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span",
+            "status": "Failed",
+            "elementKey": "span.₹39990.00",
+            "elementDesc": "Text ₹39,990.00",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "@@mycolor": null,
+            "duration": 15718000000,
+            "executedOn": "2023-05-26T08:24:14.101Z",
+            "errMessage": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span\"}\n  (Session info: chrome=113.0.5672.127)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span\"}\n  (Session info: chrome=113.0.5672.127)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat runMicrotasks (<anonymous>)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:700:17)\n\tat async toWireValue (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:139:15)\n\tat async c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:190:16\n\tat async forEachKey (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:180:9)\n\tat async convertKeys (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:189:3)\n\tat async c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:190:16\n\tat async forEachKey (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:184:9)\n\tat async convertKeys (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:189:3)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:698:22)",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Click",
+            "element": "span.nextpage",
+            "eArray": [
+                [
+                    "xpath=//a[@id='a-autoid-3']/span",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//div[2]/div/div/div/div/div[2]/div/div[3]/a/span",
+                    "xpath:position"
+                ],
+                [
+                    "css=#a-autoid-3 > span.a-button-inner",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='₹500.00'])[1]/following::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='PlayStation 4'])[1]/following::span[3]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Bestsellers in Music'])[1]/preceding::span[3]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "span.nextpage",
+                    "key"
+                ]
+            ],
+            "input": "",
+            "status": "NotRun",
+            "elementKey": "span.nextpage",
+            "elementDesc": "Text nextpage",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "@@mycolor": null,
+            "duration": 6092000000,
+            "executedOn": "2023-04-03T07:25:46.938Z",
+            "errMessage": "",
+            "isRowExpanded": false
+        },
+        {
+            "command": "Drag And Drop",
+            "element": "span.nextpage",
+            "eArray": [
+                [
+                    "xpath=//a[@id='a-autoid-3']/span",
+                    "xpath:idRelative"
+                ],
+                [
+                    "xpath=//div[2]/div/div/div/div/div[2]/div/div[3]/a/span",
+                    "xpath:position"
+                ],
+                [
+                    "css=#a-autoid-3 > span.a-button-inner",
+                    "css"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='₹1,500.00'])[1]/following::span[1]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='PlayStation 4'])[2]/following::span[3]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Bestsellers in Music'])[1]/preceding::span[3]",
+                    "xpath:neighbor"
+                ],
+                [
+                    "span.nextpage",
+                    "key"
+                ]
+            ],
+            "input": "xpath=//div[@id='anonCarousel2']/ol",
+            "status": "NotRun",
+            "elementKey": "ol.5rs.1000sonyplaystationnetworkwallettop-upemaildeliveryin…sonyinteractiveentertainmenteurope4.7outof5stars4280playstation4₹1000.006rs.2000sonyplaystationnetworkwallettop-upemaildeliveryin…sonyinteractiveentertainmenteurope4.7outof5stars1336₹2000.007myntrae-giftcard-flat5off-redeemableonline4.7outof5stars5171offerfrom₹100.008rs.1500sonyplaystationnetworkwallettop-upemaildeliveryin…sonyinteractiveentertainmenteurope4.8outof5stars2107playstation4₹1500.00",
+            "elementDesc": "List of #5rs.1000sonyplaystationnetworkwallettop-up(emaildeliveryin…sonyinteractiveentertainmenteurope4.7outof5stars4,280playstation4₹1,000.00#6rs.2000sonyplaystationnetworkwallettop-up(emaildeliveryin…sonyinteractiveentertainmenteurope4.7outof5stars1,336₹2,000.00#7myntrae-giftcard-flat5%off-redeemableonline4.7outof5stars5171offerfrom₹100.00#8rs.1500sonyplaystationnetworkwallettop-up(emaildeliveryin…sonyinteractiveentertainmenteurope4.8outof5stars2,107playstation4₹1,500.00",
+            "isEncrypted": false,
+            "isDisplay": false,
+            "iframeNode": [],
+            "indexColumn": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "@@mycolor": null,
+            "duration": 538000000,
+            "executedOn": "2023-04-03T07:25:47.476Z",
+            "errMessage": "",
+            "isRowExpanded": false
+        }
+    ],
+    "type": "web",
+    "capabilities": {
+        "remoteUrl": "https://www.amazon.in/",
+        "type": "web",
+        "selectBrowser": "chrome",
+        "selectDevice": "",
+        "isRemote": false,
+        "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+        "isDebugMode": true,
+        "details": {
+            "deviceMetrics": {
+                "name": "",
+                "width": "",
+                "height": "",
+                "pixelRatio": "",
+                "userAgent": ""
+            }
+        }
+    },
+    "testDataExample": [],
+    "isTCValid": true,
+    "externalTestData": false,
+    "dbDetails": {},
+    "recordSessionType": "multiple",
+    "tags": [],
+    "description": "",
+    "shared": false,
+    "executionStatus": "Failed"
+}

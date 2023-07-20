@@ -1,0 +1,50 @@
+{
+	"1685089391470": {
+		"date": "2023-05-26T08:23:11.464Z",
+		"testcase": "DragTestCase",
+		"command": "Drag And Drop",
+		"status": "Failed",
+		"type": "xpath:idRelative",
+		"failedele": "xpath=//div[@id='anonCarousel2']/ol/li",
+		"newele": "xpath=//div[2]/div/div/div/div/div[2]/div/div[2]/div/ol/li",
+		"rtype": "xpath:position",
+		"oldeArray": "",
+		"eArray": ""
+	},
+	"1685089407137": {
+		"date": "2023-05-26T08:23:27.133Z",
+		"testcase": "DragTestCase",
+		"command": "Drag And Drop",
+		"status": "Failed",
+		"type": "xpath:position",
+		"failedele": "xpath=//div[2]/div/div/div/div/div[2]/div/div[2]/div/ol/li",
+		"newele": "css=#anonCarousel2 > ol.a-carousel > li.a-carousel-card",
+		"rtype": "css",
+		"oldeArray": "",
+		"eArray": ""
+	},
+	"1685089422725": {
+		"date": "2023-05-26T08:23:42.718Z",
+		"testcase": "DragTestCase",
+		"command": "Drag And Drop",
+		"status": "Failed",
+		"type": "css",
+		"failedele": "css=#anonCarousel2 > ol.a-carousel > li.a-carousel-card",
+		"newele": "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Previous page'])[2]/following::li[1]",
+		"rtype": "xpath:neighbor",
+		"oldeArray": "",
+		"eArray": ""
+	},
+	"1685089438359": {
+		"date": "2023-05-26T08:23:58.351Z",
+		"testcase": "DragTestCase",
+		"command": "Drag And Drop",
+		"status": "Failed",
+		"type": "xpath:neighbor",
+		"failedele": "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Previous page'])[2]/following::li[1]",
+		"newele": "xpath=(.//*[normalize-space(text()) and normalize-space(.)='Page 1 of 5'])[4]/following::li[1]",
+		"rtype": "xpath:neighbor",
+		"oldeArray": "",
+		"eArray": ""
+	}
+}

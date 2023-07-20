@@ -1,0 +1,197 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "DragTestCase",
+    "line": 3,
+    "description": "",
+    "id": "DragTestCase",
+    "tags": [],
+    "uri": "DragTestt/DragTestCase",
+    "testSuiteName": "DragTestt",
+    "type": "web",
+    "appName": "chrome",
+    "capability": {
+      "remoteUrl": "https://www.amazon.in/",
+      "type": "web",
+      "selectBrowser": "chrome",
+      "selectDevice": "",
+      "isRemote": false,
+      "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+      "isDebugMode": true,
+      "details": {
+        "deviceMetrics": {
+          "name": "",
+          "width": "",
+          "height": "",
+          "pixelRatio": "",
+          "userAgent": ""
+        }
+      }
+    },
+    "desiredCapabilities": {},
+    "elements": [
+      {
+        "id": "DragTestCase",
+        "keyword": "Scenario",
+        "description": "",
+        "line": 3,
+        "name": "DragTestCase",
+        "type": "scenario",
+        "testData": "",
+        "executionStatus": "NotRun",
+        "tagName": [],
+        "capability": {
+          "remoteUrl": "https://www.amazon.in/",
+          "type": "web",
+          "selectBrowser": "chrome",
+          "selectDevice": "",
+          "isRemote": false,
+          "remoteHubUrl": "http://127.0.0.1:4444/wd/hub/",
+          "isDebugMode": true,
+          "details": {
+            "deviceMetrics": {
+              "name": "",
+              "width": "",
+              "height": "",
+              "pixelRatio": "",
+              "userAgent": ""
+            }
+          }
+        },
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 1,
+            "name": "get https://www.amazon.in/",
+            "match": {
+              "location": "DragTestCase/01"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7619000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 2,
+            "name": "click on xpath=//a[contains(text(),'Best Sellers')]",
+            "match": {
+              "location": "DragTestCase/11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3634000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 3,
+            "name": "click on xpath=//a[@id='nav-hamburger-menu']/span",
+            "match": {
+              "location": "DragTestCase/21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5221000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 4,
+            "name": "Drag And Drop xpath=//a[@id='nav-hamburger-menu']/span xpath=//div[@id='hmenu-content']/ul/li/div",
+            "match": {
+              "location": "DragTestCase/31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 631000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 5,
+            "name": "click on xpath=//div[@id='hmenu-canvas-background']/div",
+            "match": {
+              "location": "DragTestCase/41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1134000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 6,
+            "name": "click on xpath=//a[contains(text(),'Bestsellers')]",
+            "match": {
+              "location": "DragTestCase/51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2282000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 7,
+            "name": "click on xpath=//div[@id='anonCarousel2']/ol",
+            "match": {
+              "location": "DragTestCase/61"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 933000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 8,
+            "name": "Drag And Drop xpath=//div[@id='anonCarousel2']/ol/li xpath=//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span",
+            "match": {
+              "location": "DragTestCase/71"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 15718000000,
+              "error_message": "Name: NoSuchElementError\r\nMessage: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span\"}\n  (Session info: chrome=113.0.5672.127)\r\nStacktrace: NoSuchElementError: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='B0BSNHFVL4']/div[4]/div/div/a/div/span/span\"}\n  (Session info: chrome=113.0.5672.127)\n\tat Object.throwDecodedError (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\error.js:550:15)\n\tat parseHttpResponse (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:565:13)\n\tat Executor.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\http.js:491:26)\n\tat runMicrotasks (<anonymous>)\n\tat processTicksAndRejections (internal/process/task_queues.js:85:5)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:700:17)\n\tat async toWireValue (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:139:15)\n\tat async c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:190:16\n\tat async forEachKey (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:180:9)\n\tat async convertKeys (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:189:3)\n\tat async c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:190:16\n\tat async forEachKey (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:184:9)\n\tat async convertKeys (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:189:3)\n\tat async thenableWebDriverProxy.execute (c:\\Program Files\\QMetry Automation Studio\\resources\\app\\extensions\\node_modules\\selenium-webdriver\\lib\\webdriver.js:698:22)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 9,
+            "name": "click on xpath=//a[@id='a-autoid-3']/span",
+            "match": {
+              "location": "DragTestCase/81"
+            },
+            "result": {
+              "status": "notrun",
+              "duration": 6092000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 10,
+            "name": "Drag And Drop xpath=//a[@id='a-autoid-3']/span xpath=//div[@id='anonCarousel2']/ol",
+            "match": {
+              "location": "DragTestCase/91"
+            },
+            "result": {
+              "status": "notrun",
+              "duration": 538000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
